@@ -12,7 +12,7 @@ The front-end interacts seamlessly with the back-end, which handles the logic fo
 - **Responsive Design**: Optimized for both desktop and mobile devices.
 
 ## Technologies Used
-- **Front-end Framework**: React.js (or Vue.js/Angular if preferred)
+- **Front-end Framework**: React.js 
 - **API Integration**: Axios (or Fetch API) is used to interact with cryptocurrency data APIs and back-end services.
 - **Notifications**: Integrates with third-party services (such as Twilio or SendGrid) for email and SMS notifications.
 
