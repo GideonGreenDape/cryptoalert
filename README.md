@@ -21,7 +21,7 @@ The front-end interacts seamlessly with the back-end, which handles the logic fo
 ### Prerequisites
 - Node.js (v14 or higher)
 - NPM or Yarn
-- API keys for services such as cryptoAlerting.com (for SMS) and coinmarketcap for real time cryptocurrency coin data.
+- API keys for services such as cryptoAlerting.com (for SMS) and coinmarketcap for real time cryptocurrency coin data's.
 
 ### Installation
 
